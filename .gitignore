@@ -1,1 +1,4 @@
 .venv
+
+artifacts/city_works*
+artifacts/graph_input.csv
