@@ -1,4 +1,6 @@
-.venv
+.venv**
 
 artifacts/city_works*
 artifacts/graph_input.csv
+
+crowdflower-search-relevance
